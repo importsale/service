@@ -1,10 +1,23 @@
-body{
-   content-visibility: center;
-   background-color: #DBDBDB;
+* {
+ margin:auto;
+ padding: auto;
+}
+ 
+body {
+ width: 100%;
+ height: 100%;
+ color:#333;
+ background-image: url(https://avatars.mds.yandex.net/i?id=e8eb3b11c01c479096496d7291b19a8e_l-5650733-images-thumbs&ref=rim&n=13&w=1920&h=750);
+ background-attachment: fixed;
+ font-family: "Segoe UI", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font-size:0.94em;
+ line-height:135%;
 }
 h1{
    text-align: center;
+   margin: 50px;
 }
-input{
-
+h3{
+   text-align: center;
+   margin: 70px;
 }
